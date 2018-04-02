@@ -1,0 +1,30 @@
+[
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "analytics"
+    },
+    {
+        "ParameterKey": "Port",
+        "ParameterValue": "8080"
+    },
+    {
+        "ParameterKey": "VPC",
+        "ParameterValue": "vpc-72470015"
+    },
+    {
+        "ParameterKey": "Subnet",
+        "ParameterValue": "subnet-1e5d9057"
+    },
+    {
+        "ParameterKey": "EurekaAMI",
+        "ParameterValue": "ami-b96e8eaf"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+    },
+    {
+        "ParameterKey": "Environment",
+        "ParameterValue": "DEV"
+    }
+]
